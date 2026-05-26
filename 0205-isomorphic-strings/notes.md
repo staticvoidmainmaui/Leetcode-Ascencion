@@ -9,3 +9,10 @@ to be able to add mapping
 everthing needs to map, if a new char to check then make sure it equals the current value backwards, 
 if it is a new mapping , then yes of course
 if it is not , and there is a preexisitng mapping then double check whats stored is the char you are checking
+
+Lastly the foward check , is that if it the original s and t character review doesnt equal eachother, which means it doesnt map to itself. 
+
+Then if the new mapping for that character is not new (if(stoT[s[i] !=/0) ) meaning it maps to a char not from t, not the current one we are wathching.
+
+ In other words:
+  - stoT[s[i]] != charFromT AND stoT[s[i]] != '\0' → Conflict! One s-char mapping to multiple t-chars
