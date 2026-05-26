@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0205-isomorphic-strings/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -40,5 +41,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0205-isomorphic-strings/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
