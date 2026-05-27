@@ -26,10 +26,6 @@ public:
 
                 //hashset.erase(b); 
         }
-            //if i did s.count -> then res.insert into table
-            //return std::vector<int>(res.begin(), res.end());
-            //buids the vector out of the resolution unordered set
-            //-> std::unordered_set<int> res;
         }
     return result;
     }
