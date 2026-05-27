@@ -7,7 +7,7 @@ public:
         //value of hashset[a] is the occurances of that number a as well  
         //key would be i ? the key is the number seen and the hashset[key]
         //the value of hashset[key] is the occurances
-        //hashset.count[b] tracks the number of occurances in set nums1
+        //hashset.count[b] counts the number of ocurrances of auto b in nums1.
 
 
         unordered_map<int,int> hashset;  //<numbers->occurances>
@@ -20,12 +20,9 @@ public:
         
         //pushes back each time the number is seen in second array
         for(auto b: nums2) {
-            if(hashset.count(b)>=1) {
-                if(hashset[b]>=1) result.push_back(b);
+            if(hashset[b]>=1) result.push_back(b);
                 hashset[b]= hashset[b]-1;
-
                 //hashset.erase(b); 
-        }
         }
     return result;
     }
