@@ -20,14 +20,9 @@ public:
         
         //pushes back each time the number is seen in second array
         for(auto b: nums2) {
-            if(hashset[b] > 0){
-                result.push_back(b);
-                hashset[b]--;
-            }
-
-            // if(hashset.count(b)>=1) {
-            //     hashset[b]= hashset[b]-1;
-            //     if(hashset[b]>=1) result.push_back(b);
+            if(hashset.count(b)>=1) {
+                if(hashset[b]>=1) result.push_back(b);
+                hashset[b]= hashset[b]-1;
 
                 //hashset.erase(b); 
         }
@@ -35,6 +30,7 @@ public:
             //return std::vector<int>(res.begin(), res.end());
             //buids the vector out of the resolution unordered set
             //-> std::unordered_set<int> res;
-        return result;
+        }
+    return result;
     }
 };
