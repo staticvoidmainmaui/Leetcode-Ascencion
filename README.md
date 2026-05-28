@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0136-single-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sliding Window
