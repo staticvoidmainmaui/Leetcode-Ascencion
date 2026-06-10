@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0036-valid-sudoku/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
 <!---LeetCode Topics End-->
