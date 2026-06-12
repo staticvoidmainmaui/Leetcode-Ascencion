@@ -44,18 +44,6 @@ public:
         return key;
 
     }
-
-
-    // void traverse(TreeNode* node) {
-    //   if (!node) return;
-    //   hashmap.insert(node->val)      // preorder — print before going down
-    //   traverse(node->left);
-    //   traverse(node->right);
-    // }
-    //might not need traverse function and can just be done regionally 
-    //dont i have to check the subtree of every pair against every other subtree
-    //if there is a subtree with 2 nodes, check all wiht 2 nodes, but one with 3 nodes needs to be ckeced aaint every other one
-
     vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
         //serialize does the serialized tree for an entire subtree , starting at the node you give it
         serialize(root);
