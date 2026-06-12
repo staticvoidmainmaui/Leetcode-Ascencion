@@ -26,21 +26,22 @@ public:
     // has a serialized subtree with string for each value
     //hashmap[string] is the occurance
     //hashmap[key] identifies with key being the the serialized subtring 
-    unordered_map<string,int> hashmap; //serialized subtree -> pointing at the occurances
+    unordered_map<string,int> hashmap; //serialized subtree -> pointing at the occurances : String -> occurances
     std::vector<TreeNode*> result;
 
 
     //this is how we should traverse and using a helper function since it has to be recursive , gets a top node and goes all the way down it 
     string serialize(TreeNode* node){
         if(!node) return "#";
-        string left = serialize(node->left) ; //add +"Left?" didnt work
+        string left = serialize(node->left) ; 
         string right = serialize(node-> right) ;
         string key= left + "," + right + "," + to_string(node->val);
 
-        hashmap[key]++;
-        if(hashmap[key]==2 ) { //when seen exactly the second time push , but not after that...
+        
+        if(hashmap[key]==1 ) { //when seen exactly the second time push , but not after that...
             result.push_back(node); 
         }
+        hashmap[key]++;
         return key;
 
     }
