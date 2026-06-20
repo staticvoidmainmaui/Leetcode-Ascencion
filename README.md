@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
