@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0771-jewels-and-stones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0771-jewels-and-stones/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1089-duplicate-zeros/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
