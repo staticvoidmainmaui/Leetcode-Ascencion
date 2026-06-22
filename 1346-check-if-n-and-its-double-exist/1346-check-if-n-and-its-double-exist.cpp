@@ -6,7 +6,8 @@ public:
         for(int i =0; i<arr.size();i++){
             if(hashset.count((double) 2*arr[i])){
                 return true;
-            } else if(hashset.count((double)arr[i]/2)){
+            } else if(hashset.count((double)arr[i]/2)){ //ordering of cast matters
+            //(double)(arr[i] / 2)  // divide first (integer), then cast is wrong
                 return true;
             }else{
                 hashset.insert((double) arr[i]);
