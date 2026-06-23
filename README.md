@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0029-divide-two-integers/) | Medium |
+| [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Two Pointers
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
