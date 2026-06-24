@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
