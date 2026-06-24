@@ -9,8 +9,8 @@ public:
             }
         }
         int differece=nums.size()-k;
-        for(int j=k; j<= nums.size()-1;j++){
-            nums[j]=0;
+        for(;k<= nums.size()-1;k++){
+            nums[k]=0;
         }
     }
 };
