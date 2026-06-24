@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
