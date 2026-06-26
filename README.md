@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0771-jewels-and-stones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0771-jewels-and-stones/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
