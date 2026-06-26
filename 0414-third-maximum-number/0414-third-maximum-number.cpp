@@ -18,18 +18,17 @@ public:
             return distinctmax[0];
         } else return distinctmax[2];
 
-        // unordered_map<int,int> hashmap;  //nums[i]- > count
-        // for(int i=0; i<=nums.size()-1;i++){
-        //         hashset[num[i]]++;
-        // }
-        // if(hashmap.size()<3) return hashmap[]
-        // int k = 0;
-        // for(auto a : hashmap){
-        //     if(k==3) return a.first;
-        //     k++;
-        // }
-        //unordered map would not work , with keys coming out in a random order so no traversal to find the third largest 
 
-        //number of time its more than a number then after that loop return the third biggest count - 2 loops , o(n+3)=o(n) 
+        //optimal 
+
+        int m1=INT_MIN, m2= INT_MIN, m3= INT_MIN;
+        for(int n:nums){
+            if(n==m1 || n==m2 || n==m3) continue;
+            if(n>m1) { m3=m2; m2=m1; m1=n;}
+            else if(n>m2) { m3=m2; m2=n; }
+            else if(n>m3) { m3=n; }
+            
+        }
+        return m3==INT_MIN ? m1 : m3; //if third never set then never found and return m1 max if not return m3 ... 
     }
 };
