@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0771-jewels-and-stones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0771-jewels-and-stones/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0905-sort-array-by-parity/) | Easy |
