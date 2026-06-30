@@ -15,6 +15,9 @@ public:
         }
 
         return result;
-        //for loop iterating through range
+        //optimal no space solution
+        
+        // 1. First pass — mark seen values by negating nums[abs(nums[i])-1]
+        // 2. Second pass — wherever nums[i] is still positive, index i+1 was never seen,push i+1 to result
     }
 };
