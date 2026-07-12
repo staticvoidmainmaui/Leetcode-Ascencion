@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0724-find-pivot-index](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0724-find-pivot-index/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0414-third-maximum-number/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/1051-height-checker/) | Easy |
