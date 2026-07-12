@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -177,5 +179,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
