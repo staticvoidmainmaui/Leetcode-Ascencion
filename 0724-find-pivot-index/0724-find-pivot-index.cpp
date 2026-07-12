@@ -17,7 +17,7 @@ public:
             }
             //if not add number to leftsum of new pivot = now i+1 
             else {
-                lsum+=nums[j];
+             lsum+=nums[j];
             }
         }
         return -1;
