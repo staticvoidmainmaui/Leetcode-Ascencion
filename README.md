@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0724-find-pivot-index](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0036-valid-sudoku/) | Medium |
+| [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0724-find-pivot-index/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
