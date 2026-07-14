@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -181,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0498-diagonal-traverse/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
