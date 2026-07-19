@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0189-rotate-array](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0283-move-zeroes/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -186,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0118-pascals-triangle/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/staticvoidmainmaui/Leetcode-Ascencion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
